@@ -1,0 +1,8 @@
+# lab data: do not commit unless you have permission to publish it
+data/*.xlsx
+data/*.csv
+
+# notebooks / editors / OS
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
